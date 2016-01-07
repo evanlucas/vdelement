@@ -7,6 +7,8 @@ Base Element for use with virtual-dom.
 
 This was originally taken from https://github.com/moose-team/friends/blob/master/lib/elements/base-element.js and modified for efficiency.
 
+Requires Node.js v4+.
+
 ## Install
 
 ```bash
